@@ -1,4 +1,9 @@
 # react-leaflet-div-icon
+
+_This is a fork of [react-leaflet-div-icon](https://github.com/jgimbel/react-leaflet-div-icon) for React 16+ support. It will cease to exist as soon as the original repository merges [PR #14](https://github.com/jgimbel/react-leaflet-div-icon/pull/14) or supports React 16 in any other way._
+
+___
+
 This extends the L.DivIcon class for react-leaflet. It allows a user to render some jsx onto the map, and control its position via the `position` prop.
 
 ##Installation
